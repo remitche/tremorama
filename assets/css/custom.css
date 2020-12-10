@@ -1,0 +1,15 @@
+.plateformeMusique
+{
+  margin:auto; display:block
+}
+
+body{background-color: black;}
+.blocContent{background-color: white;  padding: 8px;}
+.blocBanniere{background-image: url('../../images/banniere.jpg');}
+.blocDiscographie{; background-repeat: no-repeat; background-position: center;}
+.blocBio{); background-repeat: no-repeat; background-position: center;}
+.blocStreaming{background: black ;}
+.blocLive{}
+
+li{list-style-type: none; margin: 4px;}
+a:hover {color: #4beddc;}
