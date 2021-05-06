@@ -1,8 +1,17 @@
 
 
 body{background-color: #000000;
-background-image: url('../../images/fond.jpg');}
+background-image: url('../../images/fond.jpg');
+color: #f7f7f7;
+font-size: 14px;}
+h1,h2{color:#ac6fea;}
+span,h3{color:#5b61d7;}
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 .center
 {
 	display: block;
@@ -10,3 +19,5 @@ background-image: url('../../images/fond.jpg');}
   margin-right: auto;
   
 }
+
+.row{background-color: black}
