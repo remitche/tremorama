@@ -1,9 +1,14 @@
 
 
-body{background-color: #000000;
-background-image: url('../../images/fond.jpg');
-color: #f7f7f7;
-font-size: 14px;}
+body
+{
+	background-color: #000000;
+	background-image: url('../../images/fond.jpg');
+	color: #f7f7f7;
+	font-size: 14px;
+	background-repeat:no-repeat;
+	background-position: center center;
+}
 h1,h2{color:#ac6fea;}
 span,h3{color:#5b61d7;}
 
